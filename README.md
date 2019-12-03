@@ -19,7 +19,7 @@ A place for all the useful links I discovered all along my programming journey.
 	* [Scotch tutorial on Hooks](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
 	* [Academind tutorial on Hooks](https://academind.com/learn/react/react-hooks-introduction/)
 
-* [React Native Boiler Plate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-boilerplate)
+* [React Native Boiler Plate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-feature-boilerplate?source=post_page-----dd7c4434bc26----------------------)
 
 * React Native + Redux :
 	* REDUX-THUNK:
@@ -44,3 +44,5 @@ A place for all the useful links I discovered all along my programming journey.
 
 * React Native Material UI Components: 
 	* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
+	* [Medium Article on Uber Cool Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
+	* [Medium Article on Uber Grovy Material UI Components](https://medium.com/@victorvarghese/groovy-react-native-components-c9aa478e1627)
