@@ -8,18 +8,16 @@ A place for all the useful links I discovered all along my programming journey.
 ## How to make a file like this (README.md)?
 * [Make README](https://www.makeareadme.com/)
 
-## React
-* [FlexBox tutorial](https://jsfiddle.net/bradtraversy/bu0ecodm/1/)
-
-* React Hooks : 
-	* [Scotch tutorial on Hooks](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
-	* [Academind tutorial on Hooks](https://academind.com/learn/react/react-hooks-introduction/)
-
 ## React Native
 
 * Getting started with React Native : 
 	* [Official docs](https://facebook.github.io/react-native/docs/getting-started)
 	
+* [FlexBox tutorial](https://jsfiddle.net/bradtraversy/bu0ecodm/1/)
+
+* React Hooks : 
+	* [Scotch tutorial on Hooks](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
+	* [Academind tutorial on Hooks](https://academind.com/learn/react/react-hooks-introduction/)
 
 * [React Native Boiler Plate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-boilerplate)
 
