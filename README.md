@@ -2,11 +2,12 @@
 A place for all the useful links I discovered all along my programming journey.
 
 ## React
-* FlexBox tutorial code: https://jsfiddle.net/bradtraversy/bu0ecodm/1/
+* FlexBox tutorial code: 
+	https://jsfiddle.net/bradtraversy/bu0ecodm/1/
 
 * React Hooks : 
-	 https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components
-	 https://academind.com/learn/react/react-hooks-introduction/
+	[Scotch tutorial on Hooks] (https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
+	[Academind tutorial on Hooks] (https://academind.com/learn/react/react-hooks-introduction/)
 
 
 ## React Native
