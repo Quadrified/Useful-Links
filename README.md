@@ -19,7 +19,7 @@ A place for all the useful links I discovered all along my programming journey.
 
 * Getting started with React Native : 
 	* [Official docs](https://facebook.github.io/react-native/docs/getting-started)
-	* 
+	
 
 * [React Native Boiler Plate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-boilerplate)
 
