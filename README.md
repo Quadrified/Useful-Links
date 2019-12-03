@@ -45,4 +45,4 @@ A place for all the useful links I discovered all along my programming journey.
 * React Native Material UI Components: 
 	* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
 	* [Medium Article on Uber Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
-	* [Medium Article on Uber Grovy Material UI Components](https://medium.com/@victorvarghese/groovy-react-native-components-c9aa478e1627)
+	* [Medium Article on Grovy Material UI Components](https://medium.com/@victorvarghese/groovy-react-native-components-c9aa478e1627)
