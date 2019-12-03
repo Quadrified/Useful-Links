@@ -6,7 +6,7 @@ A place for all the useful links I discovered all along my programming journey.
 * [All Git and GitHub commands](https://github.com/joshnh/Git-Commands)
 
 ## How to make a file like this (README.md)?
-  [Make README](https://www.makeareadme.com/)
+* [Make README](https://www.makeareadme.com/)
 
 ## React
 * [FlexBox tutorial](https://jsfiddle.net/bradtraversy/bu0ecodm/1/)
