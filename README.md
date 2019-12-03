@@ -35,7 +35,7 @@ A place for all the useful links I discovered all along my programming journey.
 
 * React Native Vector Icons : 
 	* [react-native-vector-icons (repo)](https://github.com/oblador/react-native-vector-icons)
-	* [Icons list](https://oblador.github.io/react-native-vector-icons/)
+	* [Vector icons list](https://oblador.github.io/react-native-vector-icons/)
 
 * React Native SVG : 
 	* [react-native-svg](https://github.com/react-native-community/react-native-svg)
