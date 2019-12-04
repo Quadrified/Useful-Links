@@ -13,8 +13,9 @@ A place for all the useful links I discovered all along my programming journey.
 * Getting started with React Native : 
 	* [Official docs](https://facebook.github.io/react-native/docs/getting-started)
 	
-* [FlexBox tutorial](https://jsfiddle.net/bradtraversy/bu0ecodm/1/)
-
+* Flexbox :
+	* [FlexBox tutorial](https://jsfiddle.net/bradtraversy/bu0ecodm/1/)
+	* [Flexbox tricks (React Native)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * React Hooks : 
 	* [Scotch tutorial on Hooks](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
 	* [Academind tutorial on Hooks](https://academind.com/learn/react/react-hooks-introduction/)
