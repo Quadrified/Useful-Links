@@ -12,6 +12,7 @@ A place for all the useful links I discovered all along my programming journey.
 
 * Getting started with React Native : 
 	* [Official docs](https://facebook.github.io/react-native/docs/getting-started)
+	* [My guide](https://drive.google.com/file/d/1eE4baXiDyZw7qZV54Wm5BDriTGWQa62w/view?usp=sharing)
 	
 * Flexbox :
 	* [FlexBox tutorial](https://jsfiddle.net/bradtraversy/bu0ecodm/1/)
