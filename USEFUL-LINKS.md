@@ -7,6 +7,7 @@ A place for all the useful links I discovered all along my programming journey.
 
 ## How to make a file like this (README.md)?
 * [Make README](https://www.makeareadme.com/)
+* [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
 * [Learn Markup in Y minutes](https://learnxinyminutes.com/docs/markdown/)
 * [Markdown by hands on](https://commonmark.org/help/tutorial/index.html)
 
