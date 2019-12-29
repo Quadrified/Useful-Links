@@ -13,23 +13,21 @@ A place for all the useful links I discovered all along my programming journey.
 * [Markdown by hands on](https://commonmark.org/help/tutorial/index.html)
 
 ## Useful extensions
-
-	* Visual STudio COde (VS code)
-		* Prettier
-		* Auto close tag
-		* Babel JavaScript
-		* Color highlight
-		* Path intellisense
-		* Document this
-		* Git lens
-		* Material icon theme
-		* TODO highlight
-		* Live server
-		* vscode-faker (By  Budi Irawan)
-		
-		## React Native specific	
-			* React Native Tools
-			* ES7 React/Redux/GraphQL/React-Native snippets (By dsznajder)
+* Visual Studio COde (VS code)
+	* Prettier
+	* Auto close tag
+	* Babel JavaScript
+	* Color highlight
+	* Path intellisense
+	* Document this
+	* Git lens
+	* Material icon theme
+	* TODO highlight
+	* Live server
+	* vscode-faker (By  Budi Irawan)
+	## React Native specific	
+		* React Native Tools
+		* ES7 React/Redux/GraphQL/React-Native snippets (By dsznajder)
 		
 ## React Native
 
