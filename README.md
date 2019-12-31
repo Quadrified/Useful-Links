@@ -5,6 +5,7 @@ A place for all the useful links I discovered all along my programming journey.
 * [Traversy Media (YouTube tutorial)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [Git tips](https://github.com/Quadrified/Git-Tips)
 * [All Git and GitHub commands](https://github.com/joshnh/Git-Commands)
+* [Medium article on GIT](https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395)
 
 ## How to make a file like this (README.md)?
 * [Make README](https://www.makeareadme.com/)
