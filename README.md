@@ -34,9 +34,9 @@ A place for all the useful links I discovered all along my programming journey.
 - [Any api](https://any-api.com/)
 
 ## Online editors
-	#JavaScript
+* JavaScript
 	- [JS bin](https://jsbin.com/?html,js,console,output)
-
+	
 ## React Native
 
 * Getting started with React Native : 
