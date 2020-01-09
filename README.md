@@ -84,6 +84,6 @@ A place for all the useful links I discovered all along my programming journey.
 	* Modals:
 		* [React-Native-Modal](https://github.com/react-native-community/react-native-modal)
 		* [React-Native-Modal-2](https://github.com/jacklam718/react-native-modals/blob/master/README.md)
-		* [React-Native-Modal](https://reactnativeexample.com/tag/popup/)
+		* [React-Native-Modal-3](https://reactnativeexample.com/tag/popup/)
 	
 
