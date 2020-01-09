@@ -62,26 +62,28 @@ A place for all the useful links I discovered all along my programming journey.
 		* [Nguyen Duc Hoang (YouTube tutorial)](https://www.youtube.com/watch?v=IOTEAunY8ZI)
 		* [Learn Redux Saga (YouTube tutorial)](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)
 
-* React Native Vector Icons : 
+
+* React Native Extras: 
+	* React Native Vector Icons : 
 	* [react-native-vector-icons (repo)](https://github.com/oblador/react-native-vector-icons)
 	* [Vector icons list](https://oblador.github.io/react-native-vector-icons/)
 
-* React Native SVG : 
-	* [react-native-svg](https://github.com/react-native-community/react-native-svg)
+	* React Native SVG : 
+		* [react-native-svg](https://github.com/react-native-community/react-native-svg)
 
-* React Native SVG charts: 
-	* [Examples (part 1)](https://github.com/JesperLekland/react-native-svg-charts)
-	* [Example (part 2)](https://github.com/JesperLekland/react-native-svg-charts-examples)
+	* React Native SVG charts: 
+		* [Examples (part 1)](https://github.com/JesperLekland/react-native-svg-charts)
+		* [Example (part 2)](https://github.com/JesperLekland/react-native-svg-charts-examples)
 
-* React Native Material UI Components: 
-	* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
-	* [Medium Article on Uber Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
-	* [Medium Article on Grovy Material UI Components](https://medium.com/@victorvarghese/groovy-react-native-components-c9aa478e1627)
-
-* React Native Extras: 
+	* React Native Material UI Components: 
+		* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
+		* [Medium Article on Uber Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
+		* [Medium Article on Grovy Material UI Components](https://medium.com/@victorvarghese/groovy-react-native-components-c9aa478e1627)
 	* [Integrate Google Sign-in](https://github.com/react-native-community/react-native-google-signin)
 	* [Integrate Facbook Sign-in](https://github.com/facebook/react-native-fbsdk)
 	* Modals:
 		* [React-Native-Modal](https://github.com/react-native-community/react-native-modal)
 		* [React-Native-Modal-2](https://github.com/jacklam718/react-native-modals/blob/master/README.md)
 		* [React-Native-Modal](https://reactnativeexample.com/tag/popup/)
+	
+
