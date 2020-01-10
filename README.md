@@ -74,7 +74,8 @@ A place for all the useful links I discovered all along my programming journey.
 	* React Native SVG charts: 
 		* [Examples (part 1)](https://github.com/JesperLekland/react-native-svg-charts)
 		* [Example (part 2)](https://github.com/JesperLekland/react-native-svg-charts-examples)
-
+		
+	* [Awesome React Native Components](https://www.awesome-react-native.com/#Components-UI) 
 	* React Native Material UI Components: 
 		* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
 		* [Medium Article on Uber Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
