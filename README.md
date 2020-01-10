@@ -64,9 +64,10 @@ A place for all the useful links I discovered all along my programming journey.
 
 
 * React Native Extras: 
+	* [Awesome React Native Components(All RN components in one place)](https://www.awesome-react-native.com/#Components-UI) 
 	* React Native Vector Icons : 
-	* [react-native-vector-icons (repo)](https://github.com/oblador/react-native-vector-icons)
-	* [Vector icons list](https://oblador.github.io/react-native-vector-icons/)
+		* [react-native-vector-icons (repo)](https://github.com/oblador/react-native-vector-icons)
+		* [Vector icons list](https://oblador.github.io/react-native-vector-icons/)
 
 	* React Native SVG : 
 		* [react-native-svg](https://github.com/react-native-community/react-native-svg)
@@ -75,7 +76,6 @@ A place for all the useful links I discovered all along my programming journey.
 		* [Examples (part 1)](https://github.com/JesperLekland/react-native-svg-charts)
 		* [Example (part 2)](https://github.com/JesperLekland/react-native-svg-charts-examples)
 		
-	* [Awesome React Native Components](https://www.awesome-react-native.com/#Components-UI) 
 	* React Native Material UI Components: 
 		* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
 		* [Medium Article on Uber Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
