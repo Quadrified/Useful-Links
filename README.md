@@ -65,7 +65,8 @@ A place for all the useful links I discovered all along my programming journey.
 	* [Awesome React Native Components(All RN components in one place)](https://www.awesome-react-native.com/#Components-UI) 
 	* Boilerplates :
 		* [React Native Boilerplate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-feature-boilerplate?source=post_page-----dd7c4434bc26----------------------)
-        	* [React Native Ignite Boilerplates](https://github.com/infinitered/ignite)
+		* [React Native Ignite Boilerplates](https://github.com/infinitered/ignite)
+		
 	* React Native Vector Icons : 
 		* [react-native-vector-icons (repo)](https://github.com/oblador/react-native-vector-icons)
 		* [Vector icons list](https://oblador.github.io/react-native-vector-icons/)
