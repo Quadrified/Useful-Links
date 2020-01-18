@@ -50,8 +50,9 @@ A place for all the useful links I discovered all along my programming journey.
 	* [Scotch tutorial on Hooks](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
 	* [Academind tutorial on Hooks](https://academind.com/learn/react/react-hooks-introduction/)
 
-* [React Native Boiler Plate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-feature-boilerplate?source=post_page-----dd7c4434bc26----------------------)
-
+* Boilerplates : 
+        * [React Native Boilerplate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-feature-boilerplate?source=post_page-----dd7c4434bc26----------------------)
+        * [React Native Ignite Boilerplates](https://github.com/infinitered/ignite)
 * React Native + Redux :
 	* REDUX-THUNK:
 		* [John Lebsonsold](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5)
