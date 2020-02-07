@@ -60,7 +60,6 @@ A place for all the useful links I discovered all along my programming journey.
 		* [ReactNativeTutorial (YouTube tutorial)](https://www.youtube.com/watchv=Hn2acItzQBk&list=PLSQhEegvsgQCCeaJe2V9XrsD7EIm2Qpv5&index=10&t=0s)
 
 	* REDUX-SAGA:
-		* [Article](https://blog.logrocket.com/understanding-redux-saga-from-action-creators-to-sagas-2587298b5e71/​​​​​​​)
 		* [Nguyen Duc Hoang (YouTube tutorial)](https://www.youtube.com/watch?v=IOTEAunY8ZI)
 		* [Learn Redux Saga (YouTube tutorial)](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)
 
