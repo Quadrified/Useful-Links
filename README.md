@@ -32,7 +32,7 @@ A place for all the useful links I discovered all along my programming journey.
 	
 ## Demo APIs Online
 - [Any api](https://any-api.com/)
--[JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Online editors
 * JavaScript
