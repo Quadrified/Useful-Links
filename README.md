@@ -18,7 +18,7 @@ A place for all the useful links I discovered all along my programming journey.
 	* Prettier
 	* PolaCode
 	* Better comments
-	* Auto close tag
+	* Auto rename tag
 	* Babel JavaScript
 	* Color highlight
 	* Path intellisense
