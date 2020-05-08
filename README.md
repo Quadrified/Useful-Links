@@ -39,7 +39,7 @@ A place for all the useful links I discovered all along my programming journey.
 
 ## Online editors
 * JavaScript
-	- [JS bin](https://jsbin.com/?html,js,console,output)
+	- [JS bin](https://jsbin.com/?js,console,output)
 	
 ## Regular Expressions
 - [Test your Regex](https://www.regular-expressions.info/javascriptexample.html)
