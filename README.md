@@ -12,6 +12,7 @@ A place for all the useful links I discovered all along my programming journey.
 * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
 * [Learn Markup in Y minutes](https://learnxinyminutes.com/docs/markdown/)
 * [Markdown by hands on](https://commonmark.org/help/tutorial/index.html)
+* [List of all emojis to use in Markdown files](https://gist.github.com/rxaviers/7360908)
 
 ## Useful extensions
 * Visual Studio Code (VS code)
