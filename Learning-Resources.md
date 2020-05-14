@@ -3,7 +3,7 @@ A place for all the useful tutorial links I discovered all along my programming 
 
 For all the useful tools, extensions and other resources go to [this](https://github.com/Quadrified/Useful-Links/tree/master#useful-links) file.
 
-## JavaScript (learning resources)
+## JavaScript
 
 * Basics
     - Traversy Media:  https://www.youtube.com/watch?v=hdI2bqOjy3c
@@ -17,3 +17,33 @@ For all the useful tools, extensions and other resources go to [this](https://gi
 * Extra learning:
     - Higher Order Functions: https://www.youtube.com/watch?v=rRgD1yVwIvE 
     - Array Methods: https://www.youtube.com/watch?v=R8rmfD9Y5-c
+
+## TypeScript
+** *coming soon* **
+
+## Angular
+** *coming soon* **
+
+## Node.js
+** *coming soon* **
+
+## Express.js
+** *coming soon* **
+
+## React Native
+** *coming soon* **
+
+## Android
+** *coming soon* **
+
+## Java
+** *coming soon* **
+
+## Kotlin
+** *coming soon* **
+
+## Dart
+** *coming soon* **
+
+## Flutter
+** *coming soon* **
