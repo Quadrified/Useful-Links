@@ -1,0 +1,17 @@
+# Learning-Resources :books:
+A place for all the useful tutorial links I discovered all along my programming journey.
+
+## JavaScript (learning resources)
+
+* Basics
+    - Traversy Media:  https://www.youtube.com/watch?v=hdI2bqOjy3c
+    - Mosh Hamedani: https://www.youtube.com/watch?v=W6NZfCO5SIk
+    - FreeCodeCamp: https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+* ES6
+    - Traversy Media (playlist): https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
+    - FreeCodeCamp: https://www.youtube.com/watch?v=nZ1DMMsyVyI
+
+* Extra learning:
+    - Higher Order Functions: https://www.youtube.com/watch?v=rRgD1yVwIvE 
+    - Array Methods: https://www.youtube.com/watch?v=R8rmfD9Y5-c
