@@ -1,4 +1,4 @@
-# Useful-Links
+# Useful-Resources :rocket:
 A place for all the useful links I discovered all along my programming journey.
 
 For all the learning resources go to [this](https://github.com/Quadrified/Useful-Links/blob/master/Learning-Resources.md#learning-resources-books) file.
@@ -14,7 +14,7 @@ For all the learning resources go to [this](https://github.com/Quadrified/Useful
 * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
 * [Learn Markup in Y minutes](https://learnxinyminutes.com/docs/markdown/)
 * [Markdown by hands on](https://commonmark.org/help/tutorial/index.html)
-* [List of all emojis to use in Markdown files](https://gist.github.com/rxaviers/7360908)
+* [List of all emojis to use in Markdown files](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Useful extensions
 * Visual Studio Code (VS code)
