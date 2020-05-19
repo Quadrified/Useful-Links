@@ -1,7 +1,9 @@
 # Useful-Resources :rocket:
 A place for all the useful links I discovered all along my programming journey.
 
-For all the learning resources go to [this](https://github.com/Quadrified/Useful-Links/blob/master/Learning-Resources.md#learning-resources-books) file.
+For all the learning resources, go to [this](https://github.com/Quadrified/Useful-Links/blob/master/Learning-Resources.md#learning-resources-books) file.
+
+For all the useful articles, go to [this](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books)
 
 ## Git and GitHub tutorial
 * [Traversy Media (YouTube tutorial)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
