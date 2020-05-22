@@ -46,7 +46,7 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 ## Need a fake/dummy email to test your feature?
 * [YOPmail](http://www.yopmail.com/en/)
 
-## Demo APIs Online
+## Dummy APIs Online
 * [Any api](https://any-api.com/)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
