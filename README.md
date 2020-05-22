@@ -42,7 +42,10 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 ## Share your source code snippets
 * [Carbon](https://carbon.now.sh/)
 * [PolaCode (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-	
+
+## Need a fake/dummy email to test your feature?
+* [YOPmail](http://www.yopmail.com/en/)
+
 ## Demo APIs Online
 * [Any api](https://any-api.com/)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
