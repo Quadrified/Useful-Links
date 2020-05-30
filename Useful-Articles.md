@@ -76,9 +76,9 @@ _(Mostly) Contains posts from Instagram as well_
 - [SASS Advanced](https://www.instagram.com/p/CANuW2kgmhc/?utm_source=ig_web_copy_link)
 
 - CSS Libraries
- - [Top 15 Amazing CSS Animation libraries - Part 1](https://www.instagram.com/p/CAW9RCHgDsG/?utm_source=ig_web_copy_link)
- - [Top 15 Amazing CSS Animation libraries - Part 2](https://www.instagram.com/p/CAZfrByAznK/?utm_source=ig_web_copy_link)
- - [10 interesting CSS libraries](https://tutorialzine.com/2020/05/10-interesting-javascript-and-css-libraries-for-may-2020)
+  - [Top 15 Amazing CSS Animation libraries - Part 1](https://www.instagram.com/p/CAW9RCHgDsG/?utm_source=ig_web_copy_link)
+  - [Top 15 Amazing CSS Animation libraries - Part 2](https://www.instagram.com/p/CAZfrByAznK/?utm_source=ig_web_copy_link)
+  - [10 interesting CSS libraries](https://tutorialzine.com/2020/05/10-interesting-javascript-and-css-libraries-for-may-2020)
 
 ## React Native stuff
 
