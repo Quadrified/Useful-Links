@@ -57,3 +57,10 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 ## Regular Expressions
 * [Test your Regex](https://www.regular-expressions.info/javascriptexample.html)
 * [Regex Library](http://regexlib.com/Search.aspx?k=alphabets&c=-1&m=-1&ps=20&AspxAutoDetectCookieSupport=1)
+
+
+## Convert SVG to Icons
+* [Icomoon](https://icomoon.io/app/#/select)
+
+## Convert Markdown (.md) to PDF (.pdf)
+* [ASPOSE](https://products.aspose.app/html/conversion/md-to-pdf)
