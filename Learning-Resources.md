@@ -19,8 +19,8 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
     - [W3Schools CSS Basics](https://www.w3schools.com/css/)
     
 * Bootstrap
-    - [Bootstrap Official Docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-	- [Traversy Media Bootstrap Basics](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+    - [Traversy Media Bootstrap Basics](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+	- [Bootstrap Official Docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 	- [W3Schools Bootstrap 4](https://www.w3schools.com/bootstrap4/)
 	
 * Flexbox
