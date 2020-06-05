@@ -5,20 +5,48 @@ For all the useful tools, extensions and other resources go to [this](https://gi
 
 For all the useful articles, go [here](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books).
 
+## HTML
+
+* Basics
+    - [Traversy Media HTML Basics](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
+    - [W3Schools HTML Basics](https://www.w3schools.com/html/)
+
+
+## CSS
+
+* Basics
+    - [Traversy Media CSS Basics](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2&t=0s)
+    - [W3Schools CSS Basics](https://www.w3schools.com/css/)
+    
+* Bootstrap
+    - [Bootstrap Official Docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+	- [Traversy Media Bootstrap Basics](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+	- [W3Schools Bootstrap 4](https://www.w3schools.com/bootstrap4/)
+	
+* Flexbox
+	- [Traversy Media Flexbox Basics](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+	- [W3Schools Flexbox Basics](https://www.w3schools.com/css/css3_flexbox.asp)
+	
+* SASS/SCSS
+	- [Traversy Media SASS/SCSS Basics](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+	- [W3Schools SASS/SCSS Basics](https://www.w3schools.com/sass/)
+
+
 ## JavaScript
 
 * Basics
-    - Traversy Media:  https://www.youtube.com/watch?v=hdI2bqOjy3c
-    - Mosh Hamedani: https://www.youtube.com/watch?v=W6NZfCO5SIk
-    - FreeCodeCamp: https://www.youtube.com/watch?v=PkZNo7MFNFg
+    - [Traversy Media JS Basics](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+    - [Mosh Hamedani JS Basics](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+    - [FreeCodeCamp JS Basics](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 * ES6
-    - Traversy Media (playlist): https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
-    - FreeCodeCamp: https://www.youtube.com/watch?v=nZ1DMMsyVyI
+    - [Traversy Media ES6 (playlist)](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+    - [FreeCodeCamp ES6](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
 
 * Extra learning:
-    - Higher Order Functions: https://www.youtube.com/watch?v=rRgD1yVwIvE 
-    - Array Methods: https://www.youtube.com/watch?v=R8rmfD9Y5-c
+    - [Higher Order Functions](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+    - [Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
+
     
 ## React Native
 * Getting started with React Native : 
