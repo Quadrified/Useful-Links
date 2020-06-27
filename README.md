@@ -50,10 +50,10 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 * [Any api](https://any-api.com/)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
-## Online editors
-* JavaScript
-	- [JS bin](https://jsbin.com/?js,console,output)
-	
+## Online JS editors
+* [JS bin](https://jsbin.com/?js,console,output)
+* [CodePen.io](https://codepen.io/pen/)
+
 ## Regular Expressions
 * [Test your Regex](https://www.regular-expressions.info/javascriptexample.html)
 * [Regex Library](http://regexlib.com/Search.aspx?k=alphabets&c=-1&m=-1&ps=20&AspxAutoDetectCookieSupport=1)
