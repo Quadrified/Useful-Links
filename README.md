@@ -34,6 +34,7 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 	- TODO highlight
 	- Live server
 	- vscode-faker (By  Budi Irawan)
+	- Live SASS
 	
 	### React Native specific	
 	- React Native Tools
@@ -53,6 +54,11 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 ## Online JS editors
 * [JS bin](https://jsbin.com/?js,console,output)
 * [CodePen.io](https://codepen.io/pen/)
+* [StackBlitz](https://stackblitz.com/)
+* [JSFiddle](https://jsfiddle.net/)
+
+## Icons
+* [Iconfinder](https://www.iconfinder.com/)
 
 ## Regular Expressions
 * [Test your Regex](https://www.regular-expressions.info/javascriptexample.html)
