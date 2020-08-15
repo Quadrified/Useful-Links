@@ -139,3 +139,9 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 	
 * ASP.NET API:
 	- [Official API Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio)
+	
+## SQLite
+- [Official Docs](https://www.sqlite.org/docs.html)
+- [Tutlane SQLite tutorial](https://www.tutlane.com/tutorial/sqlite/sqlite-tutorial)
+- [Tutorials Point SQLite](https://www.tutorialspoint.com/sqlite/index.htm)
+- [SQlitetutorials.net](https://www.sqlitetutorial.net/)
