@@ -5,12 +5,22 @@ For all the useful tools, extensions and other resources go to [this](https://gi
 
 For all the useful articles, go [here](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books).
 
+## Coding Interview Preparation
+- [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
+- [The Dos and Don’ts for Passing Your Technical Interview](https://medium.com/better-programming/the-dos-and-donts-for-passing-your-technical-interview-1f2503c10733)
+ 
+
+## Development Roadmaps:
+- [Kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
+- [Roadmap.sh](https://roadmap.sh/)
+- [Webdev roadmap](https://www.instagram.com/p/CDle0BspbRr/)
+- [Fullstack Web Dev Roadmap](https://www.instagram.com/p/CCvw0kXAYg0/)
+
 ## HTML
 
 * Basics
     - [Traversy Media HTML Basics](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
     - [W3Schools HTML Basics](https://www.w3schools.com/html/)
-
 
 ## CSS
 
@@ -30,7 +40,9 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 * SASS/SCSS
 	- [Traversy Media SASS/SCSS Basics](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 	- [W3Schools SASS/SCSS Basics](https://www.w3schools.com/sass/)
-
+	
+* CSS References:
+	- [Visual CSS Reference](https://cssreference.io/)
 
 ## JavaScript
 
@@ -38,6 +50,7 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
     - [Traversy Media JS Basics](https://www.youtube.com/watch?v=hdI2bqOjy3c)
     - [Mosh Hamedani JS Basics](https://www.youtube.com/watch?v=W6NZfCO5SIk)
     - [FreeCodeCamp JS Basics](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+	- [Hitesh JS Course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 
 * ES6
     - [Traversy Media ES6 (playlist)](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
@@ -47,6 +60,10 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
     - [Higher Order Functions](https://www.youtube.com/watch?v=rRgD1yVwIvE)
     - [Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 
+* DOM:
+	- [DOM tutorial Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+	- [Complete DOM manipulation reference](http://youmightnotneedjquery.com/)
+	- [DOM Events](https://www.instagram.com/p/CC_ZMDgKq7t/)
     
 ## React Native
 * Getting started with React Native : 
@@ -99,31 +116,26 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 		* [React-Native-Modal](https://github.com/react-native-community/react-native-modal)
 		* [React-Native-Modal-2](https://github.com/jacklam718/react-native-modals/blob/master/README.md)
 		* [React-Native-Modal-3](https://reactnativeexample.com/tag/popup/)
+		
+## C#
+* Basics:
+	- [C# by Dani Krossing](https://www.youtube.com/watch?v=HB1aPYPPJ24&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)
+	- [FreeCodeCamp C# tutorial](https://www.youtube.com/watch?v=GhQdlIFylQ8&list=PLSQhEegvsgQCCeaJe2V9XrsD7EIm2Qpv5&index=16&t=0s)
 
+## ASP.NET
+- [Official Docs for ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
+- [ASP.NET MVC and Razor pages by FreeCodeCamp](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
 
-## TypeScript
-** *coming soon* **
+* ASP.NET MVC Architecture:
+	- [MVC by IAmTimCorey](https://www.youtube.com/watch?v=1ck9LIBxO14)
+	- [MVC by Code With Mosh](https://www.youtube.com/watch?v=E7Voso411Vs)
 
-## Angular
-** *coming soon* **
-
-## Node.js
-** *coming soon* **
-
-## Express.js
-** *coming soon* **
-
-## Android
-** *coming soon* **
-
-## Java
-** *coming soon* **
-
-## Kotlin
-** *coming soon* **
-
-## Dart
-** *coming soon* **
-
-## Flutter
-** *coming soon* **
+* ASP.NET Razor Pages:
+	- [Razor pages by IAmTimCorey](https://www.youtube.com/watch?v=68towqYcQlY)
+	
+* ASP.NET Blazor:
+	- [Blazor ](https://www.youtube.com/playlist?list=PL4WEkbdagHIR0RBe_P4bai64UDqZEbQap)
+	- [Official Video](https://www.youtube.com/watch?v=MetcuX1OHD0)
+	
+* ASP.NET API:
+	- [Official API Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio)
