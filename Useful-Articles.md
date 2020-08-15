@@ -5,7 +5,7 @@ For all the learning resources go to [this](https://github.com/Quadrified/Useful
 
 For all the useful tools, extensions and other resources go to [this](https://github.com/Quadrified/Useful-Links/tree/master#useful-links) file.
 
-_(Mostly) Contains posts from Instagram as well_
+_(Mostly) Contains posts from Instagram_
 
 ## Amazing mini projects (includes HTML, CSS and JS)
 
@@ -35,6 +35,22 @@ _(Mostly) Contains posts from Instagram as well_
 
 - [CSS Search Box Hover Effect](https://www.instagram.com/p/CAfWY10g5kM/?utm_source=ig_web_copy_link)
 
+- [Auto pausing video with JS](https://www.instagram.com/p/CDt0BS8AAbg/)
+
+- [Password Visibility toggle](https://www.instagram.com/p/CDtcvCgAlUM/)
+
+- [Dark/Light mode toggle](https://www.instagram.com/p/CDsYC31AxYb/)
+
+- [Signature animation](https://www.instagram.com/p/CDbt1wEAOap/)
+
+- [Cassie logo animation](https://www.cassie.codes/posts/creating-my-logo-animation/)
+
+- [Stopwatch with JS](https://www.instagram.com/p/CDaewLGgEzy/)
+
+- [Day/Night toggle](https://www.instagram.com/p/CCTlcTzg-gF/)
+
+- [CSS Typing Animation](https://www.instagram.com/p/CCn5ia1gAwR/)
+
 ## JavaScript
 
 - [JavaScript Callback Functions](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fjavascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them%2F)
@@ -59,11 +75,19 @@ _(Mostly) Contains posts from Instagram as well_
 
 - [Social Media Icons Hover Effect](https://www.instagram.com/p/CAptJEyg-yS/?utm_source=ig_web_copy_link)
 
+- [Copy to clipboard JS](https://www.instagram.com/p/CDnoKevIWJ-/)
+
+- [Image upload with Loading bar](https://www.instagram.com/p/CDmBIJrgldW/)
+
 - JS libraries
+  - [JS Animation Libraries](https://www.instagram.com/p/CDocjVLAwVQ/)
+  - [7 Best JS Animation libraries](https://www.instagram.com/p/CD5lwxWg_a-/)
   - [7 amazing JS libraries you didn't know](https://www.instagram.com/p/CAxrIPdgOxq/?utm_source=ig_web_copy_link)
   - [8 JS libraries for Data Visualization](https://www.instagram.com/p/CADKX7HANl7/?utm_source=ig_web_copy_link)
   - [10 Interesting JS libraries](https://tutorialzine.com/2020/05/10-interesting-javascript-and-css-libraries-for-may-2020)
   - [Top 5 amazing libraries](https://www.instagram.com/p/CAcE9qnAFuo/?utm_source=ig_web_copy_link)
+  - [Trending JS Libraries](https://www.instagram.com/p/B_ZrG0xAJLN/)
+  - [8 JS Plugins and Libraries](https://www.instagram.com/p/CCTaKGKAZmO/)
 
 ## CSS Stuff
 
@@ -74,6 +98,10 @@ _(Mostly) Contains posts from Instagram as well_
 - [SASS Tutorial](https://www.instagram.com/p/CANksMdA1ju/?utm_source=ig_web_copy_link)
 
 - [SASS Advanced](https://www.instagram.com/p/CANuW2kgmhc/?utm_source=ig_web_copy_link)
+
+- [CSS Gradient Generators](https://www.instagram.com/p/CDRXQ7agwEE/)
+
+- [CSS Media Queries](https://www.instagram.com/p/CDWUIK7gP9n/)
 
 - CSS Libraries
   - [Top 15 Amazing CSS Animation libraries - Part 1](https://www.instagram.com/p/CAW9RCHgDsG/?utm_source=ig_web_copy_link)
@@ -109,6 +137,5 @@ _(Mostly) Contains posts from Instagram as well_
 ## Misc
 
 - [Documenting Projects on GitHub](https://www.instagram.com/p/CAK4cwEKMpO/?utm_source=ig_web_copy_link)
-
 - [What is DNS?](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/what-is-dns/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-dns%2F)
-
+- [5 useful websites for front-end web developers](https://www.instagram.com/p/CD2_DfigAUT/)
