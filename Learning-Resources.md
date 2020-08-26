@@ -64,6 +64,15 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 	- [DOM tutorial Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 	- [Complete DOM manipulation reference](http://youmightnotneedjquery.com/)
 	- [DOM Events](https://www.instagram.com/p/CC_ZMDgKq7t/)
+
+## Angular
+* Getting started:
+	- [Angular Official Documentation (the best documentation, ever!!!)](https://angular.io/docs)
+	- [CodeCraft Angular series](https://codecraft.tv/courses/angular/components/overview/)
+	
+* Articles on specific topics :
+	- Routing
+		* [Angular Routing by Smashing Magazine](https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/)
     
 ## React Native
 * Getting started with React Native : 
