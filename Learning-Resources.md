@@ -1,37 +1,57 @@
 # Learning-Resources :books:
 A place for all the useful tutorial links I discovered all along my programming journey.
 
-For all the useful tools, extensions and other resources go to [this](https://github.com/Quadrified/Useful-Links/tree/master#useful-links) file.
+**For all the useful tools, extensions and other resources go to [this](https://github.com/Quadrified/Useful-Links/tree/master#useful-links) file.**
 
-For all the useful articles, go [here](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books).
+__For all the useful articles, go [here](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books).__
 
 ## Coding Interview Preparation
 - [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
+
 - [The Dos and Don’ts for Passing Your Technical Interview](https://medium.com/better-programming/the-dos-and-donts-for-passing-your-technical-interview-1f2503c10733)
+
 - [Front-end interview handbook](https://yangshun.github.io/front-end-interview-handbook/)
+
+- [Top 8 code challenging websites for Front-end developers](https://www.instagram.com/p/CE5_vSZA0Iv/)
+
+- [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
+
+- [6 best coding challenge websites](https://www.instagram.com/p/CEQx7HGA5oC/)
+
+
+## Project ideas
+- [5 best Project ideas fot full stack dev](https://www.instagram.com/p/CE00PpCg6ee/)
+
+- [Wishlist app](https://www.instagram.com/p/CEwYDoRjcAn/)
+
 
 ## Online websites to learn:
 - [Educative.io](https://www.educative.io/)
+
 - [Egghead.io](https://egghead.io/)
+
 
 ## Development Roadmaps:
 - [Kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
+
 - [Roadmap.sh](https://roadmap.sh/)
+
 - [Webdev roadmap](https://www.instagram.com/p/CDle0BspbRr/)
+
 - [Fullstack Web Dev Roadmap](https://www.instagram.com/p/CCvw0kXAYg0/)
 
-## Web Designing resources
-- [Webflow](https://webflow.com/?r=0)
-- [Figma](https://www.figma.com/)
+- [Front-end developer roadmap with free resources - Part 1](https://www.instagram.com/p/CEEvcvUAU-x/)
+
+- [Front-end developer roadmap with free resources - Part 2](https://www.instagram.com/p/CEwsiULAu2-/)
+
 
 ## HTML
-
 * Basics
     - [Traversy Media HTML Basics](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
     - [W3Schools HTML Basics](https://www.w3schools.com/html/)
 
-## CSS
 
+## CSS
 * Basics
     - [Traversy Media CSS Basics](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2&t=0s)
     - [W3Schools CSS Basics](https://www.w3schools.com/css/)
@@ -52,8 +72,8 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 * CSS References:
 	- [Visual CSS Reference](https://cssreference.io/)
 
-## JavaScript
 
+## JavaScript
 * Basics
     - [Traversy Media JS Basics](https://www.youtube.com/watch?v=hdI2bqOjy3c)
     - [Mosh Hamedani JS Basics](https://www.youtube.com/watch?v=W6NZfCO5SIk)
@@ -73,6 +93,7 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 	- [Complete DOM manipulation reference](http://youmightnotneedjquery.com/)
 	- [DOM Events](https://www.instagram.com/p/CC_ZMDgKq7t/)
 
+
 ## Angular
 * Getting started:
 	- [Angular Official Documentation (the best documentation, ever!!!)](https://angular.io/docs)
@@ -82,6 +103,7 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 	- Routing
 		* [Angular Routing by Smashing Magazine](https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/)
     
+
 ## React Native
 * Getting started with React Native : 
 	- [Official docs](https://facebook.github.io/react-native/docs/getting-started)
@@ -103,44 +125,16 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 		* [Nguyen Duc Hoang (YouTube tutorial)](https://www.youtube.com/watch?v=IOTEAunY8ZI)
 		* [Learn Redux Saga (YouTube tutorial)](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)
 
-
-* React Native Extras: 
-	- [Awesome React Native Components(All RN components in one place)](https://www.awesome-react-native.com/#Components-UI)
-	- Boilerplates :
-		* [React Native Boilerplate (with Navigations, Redux)](https://github.com/victorkvarghese/react-native-feature-boilerplate?source=post_page-----dd7c4434bc26----------------------)
-		* [React Native Ignite Boilerplates](https://github.com/infinitered/ignite)
-		
-	- React Native Vector Icons : 
-		* [react-native-vector-icons (repo)](https://github.com/oblador/react-native-vector-icons)
-		* [Vector icons list](https://oblador.github.io/react-native-vector-icons/)
-
-	- React Native SVG : 
-		* [react-native-svg](https://github.com/react-native-community/react-native-svg)
-
-	- React Native SVG charts: 
-		* [Examples (part 1)](https://github.com/JesperLekland/react-native-svg-charts)
-		* [Example (part 2)](https://github.com/JesperLekland/react-native-svg-charts-examples)
-	
-	- Responsive Views : https://www.npmjs.com/package/react-native-responsive-screen
-		
-	- React Native Material UI Components: 
-		* [Medium Article on Cool Material UI Components](https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26)
-		* [Medium Article on Uber Material UI Components](https://medium.com/@victorvarghese/uber-cool-react-native-components-30a757db5852)
-		* [Medium Article on Grovy Material UI Components](https://medium.com/@victorvarghese/groovy-react-native-components-c9aa478e1627)
-	- [Integrate Google Sign-in](https://github.com/react-native-community/react-native-google-signin)
-	- [Integrate Facbook Sign-in](https://github.com/facebook/react-native-fbsdk)
-	- Modals:
-		* [React-Native-Modal](https://github.com/react-native-community/react-native-modal)
-		* [React-Native-Modal-2](https://github.com/jacklam718/react-native-modals/blob/master/README.md)
-		* [React-Native-Modal-3](https://reactnativeexample.com/tag/popup/)
 		
 ## C#
 * Basics:
 	- [C# by Dani Krossing](https://www.youtube.com/watch?v=HB1aPYPPJ24&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-)
 	- [FreeCodeCamp C# tutorial](https://www.youtube.com/watch?v=GhQdlIFylQ8&list=PLSQhEegvsgQCCeaJe2V9XrsD7EIm2Qpv5&index=16&t=0s)
 
+
 ## ASP.NET
 - [Official Docs for ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
+
 - [ASP.NET MVC and Razor pages by FreeCodeCamp](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
 
 * ASP.NET MVC Architecture:
@@ -157,8 +151,12 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 * ASP.NET API:
 	- [Official API Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio)
 	
+
 ## SQLite
 - [Official Docs](https://www.sqlite.org/docs.html)
+
 - [Tutlane SQLite tutorial](https://www.tutlane.com/tutorial/sqlite/sqlite-tutorial)
+
 - [Tutorials Point SQLite](https://www.tutorialspoint.com/sqlite/index.htm)
+
 - [SQlitetutorials.net](https://www.sqlitetutorial.net/)
