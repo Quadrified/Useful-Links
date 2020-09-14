@@ -8,13 +8,21 @@ For all the useful articles, go [here](https://github.com/Quadrified/Useful-Link
 ## Coding Interview Preparation
 - [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 - [The Dos and Don’ts for Passing Your Technical Interview](https://medium.com/better-programming/the-dos-and-donts-for-passing-your-technical-interview-1f2503c10733)
- 
+- [Front-end interview handbook](https://yangshun.github.io/front-end-interview-handbook/)
+
+## Online websites to learn:
+- [Educative.io](https://www.educative.io/)
+- [Egghead.io](https://egghead.io/)
 
 ## Development Roadmaps:
 - [Kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
 - [Roadmap.sh](https://roadmap.sh/)
 - [Webdev roadmap](https://www.instagram.com/p/CDle0BspbRr/)
 - [Fullstack Web Dev Roadmap](https://www.instagram.com/p/CCvw0kXAYg0/)
+
+## Web Designing resources
+- [Webflow](https://webflow.com/?r=0)
+- [Figma](https://www.figma.com/)
 
 ## HTML
 
