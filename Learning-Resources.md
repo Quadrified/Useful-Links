@@ -47,13 +47,13 @@ __For all the useful articles, go [here](https://github.com/Quadrified/Useful-Li
 
 ## HTML
 * Basics
-    - [Traversy Media HTML Basics](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
+    - [Traversy Media HTML Basics](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
     - [W3Schools HTML Basics](https://www.w3schools.com/html/)
 
 
 ## CSS
 * Basics
-    - [Traversy Media CSS Basics](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2&t=0s)
+    - [Traversy Media CSS Basics](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2)
     - [W3Schools CSS Basics](https://www.w3schools.com/css/)
     
 * Bootstrap
@@ -78,7 +78,7 @@ __For all the useful articles, go [here](https://github.com/Quadrified/Useful-Li
     - [Traversy Media JS Basics](https://www.youtube.com/watch?v=hdI2bqOjy3c)
     - [Mosh Hamedani JS Basics](https://www.youtube.com/watch?v=W6NZfCO5SIk)
     - [FreeCodeCamp JS Basics](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-	- [Hitesh JS Course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
+    - [Hitesh JS Course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 
 * ES6
     - [Traversy Media ES6 (playlist)](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
