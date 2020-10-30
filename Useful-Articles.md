@@ -174,7 +174,9 @@ _(Mostly) Contains posts from Instagram_
 ## React Native stuff
 - [RN Project structure](https://www.instagram.com/p/CD4vdtrg5iW/)
 
-- [Formik - to handle forms in RN](https://formik.org/docs/overview)
+- [Formik - to handle forms](https://formik.org/docs/overview)
+
+- [Yup - to handle form validation](https://www.npmjs.com/package/yup)
 
 - [Responsive Views](https://www.npmjs.com/package/react-native-responsive-screen)
 
