@@ -3,7 +3,7 @@ A place for all the useful links I discovered all along my programming journey.
 
 **For all the learning resources, head over to [this](https://github.com/Quadrified/Useful-Links/blob/master/Learning-Resources.md#learning-resources-books) page.**
 
-__For all the useful articles, go [here](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books).__
+__For all the useful articles and resources, go [here](https://github.com/Quadrified/Useful-Links/blob/master/Useful-Articles.md#useful-articles-books).__
 
 ## Git and GitHub tutorial
 * [Traversy Media (YouTube tutorial)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
