@@ -26,6 +26,8 @@ __For all the useful articles and resources, go [here](https://github.com/Quadri
 
 * [List of all emojis to use in Markdown files](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
+* Add Badges to your Readme.md : 
+    - [Shields.io](https://shields.io/)
 
 ## Useful extensions
 * Visual Studio Code (VS code)
