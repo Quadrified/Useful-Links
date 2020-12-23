@@ -1,27 +1,37 @@
 {
-    "RN Functional Component": {
-        "prefix": "rnfc",
-        "body": [
-            "import React from 'react';",
-            "import { View, StyleSheet } from 'react-native';",
-            "",
-            "function ${TM_FILENAME_BASE}(props) {",
-            "    return (",
-            "        <View style={styles.container}>$0</View>",
-            "    );",
-            "}",
-            "",
-            "const styles = StyleSheet.create({",
-            "    container: {}",
-            "})",
-            "",
-            "export default ${TM_FILENAME_BASE};"
-        ]
-    },
-    "Print to console": {
-        "prefix": "clg",
-        "body": [
-            "console.log($1);"
-        ]
-    }
+	"RN Functional Component": {
+		"prefix": "rnfc",
+		"body": [
+			"import React from 'react';",
+			"import { View, StyleSheet } from 'react-native';",
+			"",
+			"function ${TM_FILENAME_BASE}(props) {",
+			"    return (",
+			"        <View style={styles.container}>$0</View>",
+			"    );",
+			"}",
+			"",
+			"const styles = StyleSheet.create({",
+			"    container: {}",
+			"})",
+			"",
+			"export default ${TM_FILENAME_BASE};"
+		]
+	},
+	"RN Style Component": {
+		"prefix": "rnss",
+		"body": [
+			"import { StyleSheet } from 'react-native';",
+			"",
+			"const styles = StyleSheet.create({});",
+			"",
+			"export default ${TM_FILENAME_BASE};"
+		]
+	},
+	"Print to console": {
+		"prefix": "clg",
+		"body": [
+			"console.log($1);"
+		],
+	}
 }
