@@ -12,6 +12,8 @@ __For all the useful articles, go [here](https://github.com/Quadrified/Useful-Li
 
 - [Front-end interview handbook](https://yangshun.github.io/front-end-interview-handbook/)
 
+- [30 seconds of interview] (https://github.com/30-seconds/30-seconds-of-interviews)
+
 - [Top 8 code challenging websites for Front-end developers](https://www.instagram.com/p/CE5_vSZA0Iv/)
 
 - [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
