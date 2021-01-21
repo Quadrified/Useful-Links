@@ -56,7 +56,7 @@ __For all the useful articles and resources, go [here](https://github.com/Quadri
 	- ES7 React/Redux/GraphQL/React-Native snippets (By dsznajder)
 	
 
-## COlor Palletes
+## Color Palletes
 * [7 amazing palletes](https://www.instagram.com/p/CE6wlVYAysh/)
 
 * [Coolors](coolors.co/)
