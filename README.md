@@ -38,8 +38,8 @@ __For all the useful articles and resources, go [here](https://github.com/Quadri
 	- Auto rename tag
 	- Babel JavaScript
 	- Color highlight
-        - REST Client
-        - Browser Preview
+	- REST Client
+	- Browser Preview
 	- Path intellisense
 	- Document this
 	- Git lens
