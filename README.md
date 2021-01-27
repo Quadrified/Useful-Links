@@ -39,6 +39,7 @@ __For all the useful articles and resources, go [here](https://github.com/Quadri
 	- Babel JavaScript
 	- Color highlight
 	- REST Client
+	- Import Cost
 	- Browser Preview
 	- Path intellisense
 	- Document this
