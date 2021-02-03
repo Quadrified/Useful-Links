@@ -1,5 +1,5 @@
 # Useful-Resources :rocket:
-A place for all the useful links I discovered all along my programming journey.
+A place for all the useful links I have discovered all along my programming journey.
 
 **For all the learning resources, head over to [this](https://github.com/Quadrified/Useful-Links/blob/master/Learning-Resources.md#learning-resources-books) page.**
 
