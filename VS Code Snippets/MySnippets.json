@@ -1,78 +1,101 @@
 {
-	"RN Functional Component": {
-		"prefix": "rnfc",
-		"body": [
-			"import React from 'react';",
-			"import { View, StyleSheet, Text } from 'react-native';",
-			"",
-			"function ${TM_FILENAME_BASE}(props) {",
-			"  return (",
-			"    <>",
-			"      <View style={styles.container}>",
-			"        <Text>${TM_FILENAME_BASE}</Text>",
-			"      </View>",
-			"    </>",
-			"  );",
-			"}",
-			"",
-			"const styles = StyleSheet.create({",
-			"  container: {",
-			"    flex: 1,",
-			"    alignItems: 'center',",
-			"    justifyContent: 'center',",
-			"  },",
-			"});",
-			"",
-			"export default ${TM_FILENAME_BASE};",
-			"",
-		]
-	},
-	"RN Class Component": {
-		"prefix": "rncc",
-		"body": [
-			"import React, { Component } from 'react';",
-			"import { View, StyleSheet, Text, StatusBar } from 'react-native';",
-			"",
-			"class ${TM_FILENAME_BASE} extends Component {",
-			"  render() {",
-			"    return (",
-			"      <>",
-			"        <StatusBar barStyle='dark-content' />",
-			"        <View style={styles.container}>",
-			"          <Text> ${TM_FILENAME_BASE} </Text>",
-			"        </View>",
-			"      </>",
-			"    );",
-			"  }",
-			"}",
-			"",
-			"const styles = StyleSheet.create({",
-			"  container: {",
-			"    flex: 1,",
-			"    alignItems: 'center',",
-			"    justifyContent: 'center',",
-			"    backgroundColor: '#f5f5f5',",
-			"  },",
-			"});",
-			"",
-			"export default ${TM_FILENAME_BASE};",
-			"",
-		]
-	},
-	"RN Style Component": {
-		"prefix": "rnss",
-		"body": [
-			"import { StyleSheet } from 'react-native';",
-			"",
-			"const styles = StyleSheet.create({});",
-			"",
-			"export default ${TM_FILENAME_BASE};"
-		]
-	},
-	"Print to console": {
-		"prefix": "clg",
-		"body": [
-			"console.log($1);"
-		],
-	}
+  "RN Functional Component": {
+    "prefix": "rnfc",
+    "body": [
+      "import React from 'react';",
+      "import { View, StyleSheet, Text, StatusBar } from 'react-native';",
+      "",
+      "const ${TM_FILENAME_BASE} = (props) => {",
+      "  return (",
+      "    <>",
+      "      <StatusBar barStyle='dark-content' backgroundColor={styles.container?.backgroundColor} />",
+      "      <View style={styles.container}>",
+      "        <Text>${TM_FILENAME_BASE}</Text>",
+      "      </View>",
+      "    </>",
+      "  );",
+      "}",
+      "",
+      "const styles = StyleSheet.create({",
+      "  container: {",
+      "    flex: 1,",
+      "    alignItems: 'center',",
+      "    justifyContent: 'center',",
+      "    backgroundColor: '#F5F5F5',",
+      "  },",
+      "});",
+      "",
+      "export default ${TM_FILENAME_BASE};",
+      ""
+    ]
+  },
+  "RN Class Component": {
+    "prefix": "rncc",
+    "body": [
+      "import React, { Component } from 'react';",
+      "import { View, StyleSheet, Text, StatusBar } from 'react-native';",
+      "",
+      "class ${TM_FILENAME_BASE} extends Component {",
+      "  render() {",
+      "    return (",
+      "      <>",
+      "        <StatusBar barStyle='dark-content' backgroundColor={styles.container?.backgroundColor} />",
+      "        <View style={styles.container}>",
+      "          <Text> ${TM_FILENAME_BASE} </Text>",
+      "        </View>",
+      "      </>",
+      "    );",
+      "  }",
+      "}",
+      "",
+      "const styles = StyleSheet.create({",
+      "  container: {",
+      "    flex: 1,",
+      "    alignItems: 'center',",
+      "    justifyContent: 'center',",
+      "    backgroundColor: '#f5f5f5',",
+      "  },",
+      "});",
+      "",
+      "export default ${TM_FILENAME_BASE};",
+      ""
+    ]
+  },
+  "RN Style Component": {
+    "prefix": "rnss",
+    "body": [
+      "import { StyleSheet } from 'react-native';",
+      "",
+      "const styles = StyleSheet.create({});",
+      "",
+      "export default ${TM_FILENAME_BASE};"
+    ]
+  },
+  "Print to console with title": {
+    "prefix": "clg",
+    "body": [
+      "console.log('>>>$1<<<', $2);"
+    ]
+  },
+  "Display borders": {
+    "prefix": "dbor",
+    "body": [
+      "borderWidth: 1,",
+      "borderColor: 'red',"
+    ]
+  },
+  "Display comments": {
+    "prefix": "comm",
+    "body": [
+      "/** --------------------------",
+      " * $1",
+      " --------------------------**/"
+    ]
+  },
+  "Object Destructure": {
+    "prefix": "dest",
+    "body": [
+      "const { $2 } = $1;"
+    ]
+  },
 }
