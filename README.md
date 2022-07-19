@@ -76,7 +76,7 @@ __For all the useful articles and resources, go [here](https://github.com/Quadri
 
 
 ## APIs Online
-* [Any api](https://any-api.com/)
+* [Any api](https://any-api.com/) 
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
